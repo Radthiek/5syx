@@ -1,0 +1,17 @@
+{
+	"name": "dynobot",
+	"version": "0.9.3",
+	"private": true,
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Blackhawk-TA/dynoBot.git"
+	},
+	"dependencies": {
+		"discord.js": "latest",
+		"mkdirp": "latest",
+		"node-source-rcon": "latest",
+		"request": "latest",
+		"base64-img": "latest",
+		"wolfram-alpha-api": "https://products.wolframalpha.com/api/libraries/javascript/wolfram-alpha-api-1.0.0-rc.1.tgz"
+	}
+}
